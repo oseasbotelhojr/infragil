@@ -7,10 +7,10 @@ Um pequeno exemplo de uma aplicacao em python, com dois arquivos:
 
 0 **negrito** e o *sublinhado*.
 
-##Utilizacao
+## Utilizacao
 
-'''bash
+```bash
 # Exemplo de uso
 apt-get install -y python3-flask
 python3 app.py
-'''
+```
