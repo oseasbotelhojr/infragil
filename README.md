@@ -1,10 +1,10 @@
-#Aplicacao Flask
+# Aplicacao Flask
 
 Um pequeno exemplo de uma aplicacao em python, com dois arquivos:
 
 - app.py
 - requirements.txt
-- Parahamansa Yogananda
+- README.md
 
 0 **negrito** e o *sublinhado*.
 
